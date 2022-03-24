@@ -1,0 +1,3 @@
+﻿  function.c
+C:\Users\迷茫的剑客\source\repos\Multi\Multi\function.c(133): warning C4715: “Judge”: 不是所有的控件路径都返回值
+  Multi.vcxproj -> C:\Users\迷茫的剑客\source\repos\Multi\x64\Debug\Multi.exe

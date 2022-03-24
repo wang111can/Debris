@@ -1,0 +1,8 @@
+﻿  c1.c
+C:\Users\迷茫的剑客\source\repos\Project3\Project3\c1.h(3,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\迷茫的剑客\source\repos\Project3\Project3\c1.c(1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  c2.c
+C:\Users\迷茫的剑客\source\repos\Project3\Project3\c1.h(3,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\迷茫的剑客\source\repos\Project3\Project3\c2.c(1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  正在生成代码...
+  Project3.vcxproj -> C:\Users\迷茫的剑客\source\repos\Project3\x64\Debug\Project3.exe

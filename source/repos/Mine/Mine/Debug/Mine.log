@@ -1,0 +1,7 @@
+﻿  Function.c
+  MineGame.c
+C:\Users\迷茫的剑客\source\repos\Mine\Mine\MineGame.c(3,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+C:\Users\迷茫的剑客\source\repos\Mine\Mine\MineGame.c(1): message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+C:\Users\迷茫的剑客\source\repos\Mine\Mine\MineGame.c(74,1): warning C4029: 声明的形参表不同于定义
+  正在生成代码...
+  Mine.vcxproj -> C:\Users\迷茫的剑客\source\repos\Mine\Debug\Mine.exe
